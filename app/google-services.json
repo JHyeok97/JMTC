@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607096317755",
+    "firebase_url": "https://jmtc-5e390-default-rtdb.firebaseio.com",
+    "project_id": "jmtc-5e390",
+    "storage_bucket": "jmtc-5e390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607096317755:android:44f2d795ff34079af6791e",
+        "android_client_info": {
+          "package_name": "org.techtown.jmtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607096317755-fkvuh26int72bph48uh70ojqg2t50qvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDztlXD2awLoMyGjHFw0Ow19vsVrn-4ORg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607096317755-fkvuh26int72bph48uh70ojqg2t50qvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
